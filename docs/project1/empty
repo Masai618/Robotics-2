@@ -5,3 +5,11 @@
 ##wood bottom
 #width = 16 in/40 cm
 #length = 18 in/46 cm
+
+
+
+M1 motor
+gpio pin 17 and 27
+
+M2 motor
+gpio pin 23 and 24
